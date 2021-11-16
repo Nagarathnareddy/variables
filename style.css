@@ -1,0 +1,116 @@
+:root
+{
+    /*Light theme colors*/
+    --backgroundColor:#ffd166;
+    --headingColor:#e07a5f ;
+    --paragraphColor:#081c15 ;
+  /*Dark theme colors*/
+  --backgroundColor:#9e2a2b;
+  --headingColor:#f0efeb;
+  --paragraphColor:#ee6c4d;
+
+  --mainHeadingFontSize:3em ;
+  --secondaryheadingFontSize:2em;
+  --paragraphFontSize:2em ;
+
+  --col1:8.33%;
+  --col2:16.66%;
+  --col3:25%;
+  --col4:33.33%;
+  --col5:41.66%;
+  --col6:50%;
+  --col7:58.33%;
+  --col8:66.66%;
+  --col9:75%;
+  --col10:83.33%;
+  --col11:92.66%;
+  --col12:100%;
+  
+
+    
+}
+#meg
+{
+    text-align: center;
+    color: var(--headingColor);
+    background-color:var(--backgroundColor) ;
+    display: block;
+    border-radius: 5px;
+    text-shadow: 5px 5px 5px grey;
+   
+}
+#lemon
+{
+    color: var(--headingColor);
+    background-color:var(--backgroundColor) ;
+    display: inline;
+    border-radius: 15px;
+    
+    
+}
+#lolly
+{
+    color: var(--headingColor);
+    background-color:var(--backgroundColor) ;
+    display: inline;
+    border-radius: 15px;
+    
+    
+}
+#cbiriyani
+{
+    color: var(--headingColor);
+    background-color:var(--backgroundColor) ;
+    display: inline;
+    border-radius: 15px;
+   
+}
+#alobiriyani
+{
+    color: var(--headingColor);
+    background-color:var(--backgroundColor) ;
+    display: inline;
+    border-radius: 15px;
+    
+}
+
+#f1
+{
+ width: 200px;
+ height: 200px;
+ border-radius: 25px;
+
+ 
+}
+#f2
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+     
+    
+  
+}
+#f3
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    
+}
+#f4
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;  
+   
+}
+body
+{
+ background-color: #2ec4b6;
+}
+p
+{
+  font-size: var(--paragraphFont-size);
+  width: var(--col3);
+}
